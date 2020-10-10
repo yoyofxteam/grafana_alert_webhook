@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b76a1a9-0053-4a4d-a098-a126d05cb109" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/wechat.go" beforeDir="false" afterPath="$PROJECT_DIR$/services/wechat.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="read me" />
+    <option name="LAST_COMMIT_MESSAGE" value="read me" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -76,17 +78,33 @@
       <screen x="-3840" y="0" width="1280" height="690" />
     </state>
     <state x="-3743" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/-3840.0.1280.690@-3840.0.1280.690" timestamp="1602298338384" />
-    <state x="-3599" y="0" key="CommitChangelistDialog2" timestamp="1602298859376">
+    <state x="-3599" y="0" key="CommitChangelistDialog2" timestamp="1602299484787">
       <screen x="-3840" y="0" width="1280" height="690" />
     </state>
-    <state x="-3599" y="0" key="CommitChangelistDialog2/0.0.1536.834/-3840.0.1280.690@-3840.0.1280.690" timestamp="1602298859376" />
-    <state x="-3606" y="75" key="Vcs.Push.Dialog.v2" timestamp="1602298883245">
+    <state x="-3599" y="0" key="CommitChangelistDialog2/0.0.1536.834/-3840.0.1280.690@-3840.0.1280.690" timestamp="1602299484787" />
+    <state width="1237" height="159" key="GridCell.Tab.0.bottom" timestamp="1602300611643">
       <screen x="-3840" y="0" width="1280" height="690" />
     </state>
-    <state x="-3606" y="75" key="Vcs.Push.Dialog.v2/0.0.1536.834/-3840.0.1280.690@-3840.0.1280.690" timestamp="1602298883245" />
-    <state x="-3397" y="246" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602298820470">
+    <state width="1237" height="159" key="GridCell.Tab.0.bottom/0.0.1536.834/-3840.0.1280.690@-3840.0.1280.690" timestamp="1602300611643" />
+    <state width="1237" height="159" key="GridCell.Tab.0.center" timestamp="1602300611643">
       <screen x="-3840" y="0" width="1280" height="690" />
     </state>
-    <state x="-3397" y="246" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.834/-3840.0.1280.690@-3840.0.1280.690" timestamp="1602298820470" />
+    <state width="1237" height="159" key="GridCell.Tab.0.center/0.0.1536.834/-3840.0.1280.690@-3840.0.1280.690" timestamp="1602300611643" />
+    <state width="1237" height="159" key="GridCell.Tab.0.left" timestamp="1602300611643">
+      <screen x="-3840" y="0" width="1280" height="690" />
+    </state>
+    <state width="1237" height="159" key="GridCell.Tab.0.left/0.0.1536.834/-3840.0.1280.690@-3840.0.1280.690" timestamp="1602300611643" />
+    <state width="1237" height="159" key="GridCell.Tab.0.right" timestamp="1602300611643">
+      <screen x="-3840" y="0" width="1280" height="690" />
+    </state>
+    <state width="1237" height="159" key="GridCell.Tab.0.right/0.0.1536.834/-3840.0.1280.690@-3840.0.1280.690" timestamp="1602300611643" />
+    <state x="-3606" y="75" key="Vcs.Push.Dialog.v2" timestamp="1602299712472">
+      <screen x="-3840" y="0" width="1280" height="690" />
+    </state>
+    <state x="-3606" y="75" key="Vcs.Push.Dialog.v2/0.0.1536.834/-3840.0.1280.690@-3840.0.1280.690" timestamp="1602299712472" />
+    <state x="-3397" y="246" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602299691768">
+      <screen x="-3840" y="0" width="1280" height="690" />
+    </state>
+    <state x="-3397" y="246" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.834/-3840.0.1280.690@-3840.0.1280.690" timestamp="1602299691768" />
   </component>
 </project>
